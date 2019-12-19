@@ -1,0 +1,16 @@
+/Users/mohsin.hasanuddin/Downloads/SEOAnalyzer/WordCounter/bin/Debug/WordCounter.dll
+/Users/mohsin.hasanuddin/Downloads/SEOAnalyzer/WordCounter/bin/Debug/WordCounter.pdb
+/Users/mohsin.hasanuddin/Downloads/SEOAnalyzer/WordCounter/bin/Debug/HtmlAgilityPack.dll
+/Users/mohsin.hasanuddin/Downloads/SEOAnalyzer/WordCounter/bin/Debug/HtmlAgilityPack.xml
+/Users/mohsin.hasanuddin/Downloads/SEOAnalyzer/WordCounter/obj/Debug/WordCounter.csprojAssemblyReference.cache
+/Users/mohsin.hasanuddin/Downloads/SEOAnalyzer/WordCounter/obj/Debug/WordCounter.csproj.CopyComplete
+/Users/mohsin.hasanuddin/Downloads/SEOAnalyzer/WordCounter/obj/Debug/WordCounter.dll
+/Users/mohsin.hasanuddin/Downloads/SEOAnalyzer/WordCounter/obj/Debug/WordCounter.pdb
+/Users/mohsin.hasanuddin/Work/SEOAnalyzer/WordCounter/bin/Debug/WordCounter.dll
+/Users/mohsin.hasanuddin/Work/SEOAnalyzer/WordCounter/bin/Debug/WordCounter.pdb
+/Users/mohsin.hasanuddin/Work/SEOAnalyzer/WordCounter/bin/Debug/HtmlAgilityPack.dll
+/Users/mohsin.hasanuddin/Work/SEOAnalyzer/WordCounter/bin/Debug/HtmlAgilityPack.xml
+/Users/mohsin.hasanuddin/Work/SEOAnalyzer/WordCounter/obj/Debug/WordCounter.csprojAssemblyReference.cache
+/Users/mohsin.hasanuddin/Work/SEOAnalyzer/WordCounter/obj/Debug/WordCounter.csproj.CopyComplete
+/Users/mohsin.hasanuddin/Work/SEOAnalyzer/WordCounter/obj/Debug/WordCounter.dll
+/Users/mohsin.hasanuddin/Work/SEOAnalyzer/WordCounter/obj/Debug/WordCounter.pdb
